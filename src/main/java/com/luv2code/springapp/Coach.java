@@ -1,0 +1,6 @@
+package com.luv2code.springapp;
+
+public interface Coach {
+	public String getDailyWorkout();
+	public String getDailyFortune();
+}
